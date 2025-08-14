@@ -38,15 +38,15 @@
 - تفاوت وب‌سایت ایستا (Static) و پویا (Dynamic)
 - آشنایی با Front-end و Back-end
 - تکنولوژی‌های لازم برای طراحی وب‌سایت
-  - HTML
-  - CSS
-  - JavaScript
-  - Others ...
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+  - `Others ...`
 - معرفی ابزارهای مورد نیاز
   - مرورگر (Chrome)
   - ویرایشگر (VS Code)
   - افزونه‌ها و تم‌ها
-    - Live Server
+    - `Live Server`
 
 ### فصل دوم: آموزش HTML
 
@@ -144,5 +144,6 @@
 ## نمونه وبسایت های مفید جهت ایده گرفتن
 
 - https://editoriummedia.com/
+- https://5sense.agency/
 
 </div>
