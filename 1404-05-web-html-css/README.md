@@ -144,13 +144,20 @@
 
 ## نمونه وبسایت های مفید جهت ایده گرفتن
 
-- https://editoriummedia.com/
-- https://5sense.agency/
+- سایت https://editoriummedia.com/
+- سایت https://5sense.agency/
 
 ## منابع مفید
 
 - سایت https://www.w3schools.com/
 - سایت https://developer.mozilla.org/en-US/docs/Web/HTML
 - سایت https://developer.mozilla.org/en-US/docs/Web/CSS
+
+## جلسات برگزار شده
+
+- 1404-05-19 یکشنبه
+- 1404-05-20 دوشنبه
+- 1404-05-21 سه‌شنبه
+- 1404-05-23 پنج‌شنبه
 
 </div>
