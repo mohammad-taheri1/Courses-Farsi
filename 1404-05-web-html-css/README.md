@@ -63,6 +63,7 @@
 
 ### 3. کار با تصاویر و لینک‌ها
 
+- آشنایی با آدرس دهی مطلق و نسبی
 - تگ تصویر `<img>`
 - تگ لینک `<a>`
 - دکمه‌ها با `<button>`
@@ -145,5 +146,11 @@
 
 - https://editoriummedia.com/
 - https://5sense.agency/
+
+## منابع مفید
+
+- سایت https://www.w3schools.com/
+- سایت https://developer.mozilla.org/en-US/docs/Web/HTML
+- سایت https://developer.mozilla.org/en-US/docs/Web/CSS
 
 </div>
